@@ -1,0 +1,8 @@
+{ 
+    "_id" : ObjectId("5ef42eeef4deab4fb69347f8"), 
+    "name" : "remote_client", 
+    "secret" : "41laE5QVlbNJpUlMwYEX7yNlnOlAGjduntV9PN6d", 
+    "redirect_url" : null, 
+    "user_id" : null, 
+    "created_at" : ISODate("2019-09-24T10:46:20.000+0000")
+}

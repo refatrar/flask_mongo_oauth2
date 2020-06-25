@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.idea/
+venv/
+.DS_Store/
+.vscode/
+/public/uploads
+logs/*
+config/
+
+logs/logger.log
